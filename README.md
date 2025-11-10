@@ -21,5 +21,5 @@ Raw CSV → SSIS ETL → SQL Server DW → Power BI Dashboards
 ## Key Features
 - 3 interactive Power BI dashboards
 - Customer segmentation analysis
-- Geographic transaction patterns
+- Transaction patterns analysis
 - Merchant performance insights
