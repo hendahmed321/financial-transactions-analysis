@@ -1,12 +1,7 @@
 # financial-transactions-analysis
 End-to-end ETL pipeline for transaction
 
-# Financial Transactions Analysis Project
-
-## 📊 Project Overview
-End-to-end data pipeline processing 2.5M+ financial transactions for fraud analysis and customer insights.
-
-## 🏗️ Architecture
+## Architecture
 ```
 Raw CSV → SSIS ETL → SQL Server DW → Power BI Dashboards
 ```
