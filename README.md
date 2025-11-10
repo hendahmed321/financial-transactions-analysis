@@ -18,7 +18,7 @@ Raw CSV → SSIS ETL → SQL Server DW → Power BI Dashboards
 - Power BI
 - Star Schema Design
 
-## 📈 Key Features
+## Key Features
 - 3 interactive Power BI dashboards
 - Customer segmentation analysis
 - Geographic transaction patterns
